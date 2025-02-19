@@ -1,0 +1,15 @@
+h1{
+    color:red;
+}
+p{
+    border: solid 3px red;
+}
+img{
+    height:50px;
+    width:30px;
+}
+.container .jumbotron{
+    background-color: orange;
+    margin-top: 30px;
+    
+}
